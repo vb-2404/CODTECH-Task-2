@@ -11,9 +11,9 @@
 The objective of this project is to implement linear regression using a dataset  which have a continuous target variables.Split the data into training and testing ratios,train the model on training data,evaluate the performance using metrics like mean sqaured error or R-squared and make predictions on the test set.Visulaizing the linear regression model and actual vs. predicted values to assess the model's accuracy of the model.
 
 ## Key Activities
-### ->Data Visualization:creating visualizations to understand the linear regression model.
-### ->Data representation:Data is represented between actual and predicted test data.
-### ->Calculating errors:Calculating erros like mean squared error and R2 error to determine the test data.
+#### ->Data Visualization:creating visualizations to understand the linear regression model.
+#### ->Data representation:Data is represented between actual and predicted test data.
+#### ->Calculating errors:Calculating erros like mean squared error and R2 error to determine the test data.
 
 ## Technologies Used
 #### ->Python:The primary programming language for data analysis.
